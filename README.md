@@ -56,28 +56,11 @@ Your SQL Assistant will be available at `http://localhost:8501`
    - "Create a bar chart of monthly revenue"
    - "Which products haven't been ordered recently?"
 
-### Example Queries
+---
+## 📖 Demo
 
-```
-💬 "What tables are available?"
-💬 "Show me customer demographics"
-💬 "Plot sales trends over time"
-💬 "Find high-value customers"
-```
 
 ---
-
-## 🗄️ Database Support
-
-- **✅ SQLite**: Full support (.db, .sqlite, .sqlite3)
-- **🔄 MySQL**: Coming soon
-- **🔄 PostgreSQL**: Planned
-- **🔄 SQL Server**: Planned
-
-The app includes a sample database with customers, products, orders, and employees data.
-
----
-
 ## 🎨 Visualizations
 
 Request charts by mentioning keywords like:
@@ -107,22 +90,11 @@ STREAMLIT_SERVER_PORT=8501
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/YuvvrajSingh/sql-gpt?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YuvvrajSingh/sql-gpt?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YuvvrajSingh/sql-gpt)
-
----
-
 <div align="center">
 
 ### 🚀 Ready to chat with your databases?
 
 [![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/)
 
-**[⭐ Star this repo](https://github.com/YuvvrajSingh/sql-gpt)** • **[🍴 Fork it](https://github.com/YuvvrajSingh/sql-gpt/fork)** • **[📝 Report issues](https://github.com/YuvvrajSingh/sql-gpt/issues)**
-
-Made with ❤️ by [Yuvraj Singh](https://github.com/YuvvrajSingh)
 
 </div>
