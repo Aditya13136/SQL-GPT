@@ -59,6 +59,7 @@ Your SQL Assistant will be available at `http://localhost:8501`
 ---
 ## 📖 Demo
 
+![Demo](demo/demo.gif)
 
 ---
 ## 🎨 Visualizations
