@@ -32,7 +32,7 @@ An intelligent SQL interface powered by Groq's AI models and LangChain that conv
 
 ```bash
 # Clone & install
-git clone https://github.com/YuvvrajSingh/sql-gpt.git
+git clone https://github.com/Aditya13136/SQL-GPT.git
 cd sql-gpt
 pip install -r requirements.txt
 
